@@ -1,4 +1,4 @@
-# DevOps Assignment
+# DevOps Capstone
 
 This repository contains my DevOps assignment files.
 
